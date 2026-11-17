@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard built on the **Global Superstore** sample dataset (51,290 order lines, 25,728 orders, 4 years of data). The goal: go beyond "how much did we sell?" and find **where the business actually loses money**.
 
-![Dashboard overview](<img width="1162" height="540" alt="dashboard SS" src="https://github.com/user-attachments/assets/5d31538e-e4f1-494b-aab6-7e16ba17ac94" />)
+![Dashboard overview](<img width="1162" height="540" alt="dashboard SS" src="https://github.com/user-attachments/assets/5d31538e-e4f1-494b-aab6-7e16ba17ac94" />
 
 ## Business questions
 
